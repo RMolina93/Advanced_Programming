@@ -17,3 +17,7 @@
 *6. Describe how two randomized algorithm design techniques Las Vegas and Monte Carlo differ and name an example algorithm for each case.*
 
 	Done, can be found in Randomized_Algorithms.pdf
+
+*7. Provide the expected value for x in the following Python 3 expressions*
+
+	Done, can be found in Python_Expressions.pdf
