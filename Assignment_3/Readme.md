@@ -13,3 +13,7 @@
 *3. A graph G(V, E) is a bipartite graph if its vertices can be divided into two disjoint and independent sets U and W such that every edge connects a vertex in U to one in W (U ⊂ V, W ⊂ V, U ∩ W = ∅, U ∪ W = V ). A graph is bipartite if it is 2-colorable. That is, if one colors all nodes in U with one color, and all nodes in W with another color, each edge has endpoints of differing colors. Prove that a graph is bipartite iff (if and only if) it does not contain any odd-length cycles. (Hint: use possible configuration of vertices at the same levels in Breadth First Search).*
 
 	Done, can be found in Bipartite_demo.pdf
+
+*6. Describe how two randomized algorithm design techniques Las Vegas and Monte Carlo differ and name an example algorithm for each case.*
+
+	Done, can be found in Randomized_Algorithms.pdf
